@@ -15,7 +15,7 @@ rule read =
      | "false" { FALSE }
      | "<=" { LEQ }
      | "*" { TIMES }
-     | "+" { PLLUS }
+     | "+" { PLUS }
      | "(" { LPAREN }
      | ")" { RPAREN }
      | "let" { LET }
