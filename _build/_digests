@@ -1,0 +1,8 @@
+"Rule: ocaml: menhir dependencies (%=parser )": "n\249G\162\022Sa\202\144f\244\187\208\234\153k"
+"Rule: ocaml: ml -> cmo & cmi (%=ast )": "\016\1551\250\254\026lj\189\"_S)\208\161?"
+"Rule: ocamllex (%=lexer )": "\183l\149\\\235\239\2131$\148x'\213\187\183\212"
+"Resource: /Users/r/EasyTeach/Ocaml_lex/AST/Ocaml_lex/parser.mly": "g;\130;\narl\029\154\135\"\205n\014\254"
+"Rule: ocaml dependencies ml (%=ast )": "MBM\2054_\150\161\148/NVa\203\139\t"
+"Rule: ocaml: menhir (%=parser )": "/\019\180\157\209\216\210\157\140\209\159\227\248\199\223R"
+"Resource: /Users/r/EasyTeach/Ocaml_lex/AST/Ocaml_lex/ast.ml": "B\028\206h\208$\200V\211\015\031\247\\\155\225Y"
+"Resource: /Users/r/EasyTeach/Ocaml_lex/AST/Ocaml_lex/lexer.mll": "\012\003\129\166\177\003\168\015\186\232]w\133\147\b\168"
